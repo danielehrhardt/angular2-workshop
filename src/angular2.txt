@@ -1,0 +1,34 @@
+Why Angular 2?
+
+History of Angular 1:
+
+    1. Started as a vision to enrich the DOM and advance HTML5
+    2. Hides data binding (the complex part in building a web application)
+    3. Let's the developer focus on design and architecture
+    4. Comes with a cost
+
+- angular 2 team quote -
+
+It's a new framework
+
+Syntax:
+
+    1. Angular 2 syntax - html only (with comparison to angular 1)
+    2. The new data binding in Angular 2 () [] [()] - no scope, no digest cycles
+    3. What is Typescript?
+       a. Why?
+       b. Example
+       c. Angular 2 is written in typescript.
+
+Motivation:
+    1. Show it's fast
+
+// 20 minutes
+
+Code:
+    1. HTML file
+        a. use angular2 syntax
+        b. click mission
+        c. ng-for mission
+    2. Create Component
+
