@@ -1,10 +1,10 @@
-import { MyFirstComponent } from './my-first-component/my-first-component';
 import { Component } from 'angular2/core';
+import {AwesomeComponent} from "./awesome-component/awesome-component";
 
 @Component({
     selector: 'my-app',
-    directives: [MyFirstComponent],
-    template: '<my-first-component></my-first-component>'
+    directives: [AwesomeComponent],
+    template: '<awesome-component></awesome-component>'
 })
 
 export class App {
